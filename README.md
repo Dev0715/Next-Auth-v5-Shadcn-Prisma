@@ -1,10 +1,6 @@
 # Next Auth v5 - Advanced Guide (2024)
 
-![image](https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide/assets/23248726/d0175397-8c3f-4e82-91c4-78c14f29bb81)
-
-This is a repository for Next Auth v5 - Advanced Guide (2024)
-
-[VIDEO TUTORIAL](https://youtu.be/1MTyCvS05V4)
+This is a repository for Next Auth v5 - Starting Project (2024)
 
 Key Features:
 - 🔐 Next-auth v5 (Auth.js)
@@ -47,7 +43,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide.git
+git clone https://github.com/Dev0715/Next-Auth-v5-Shadcn-Prisma.git
 ```
 
 ### Install packages
